@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📂 Projects
-##🔭 I’m currently working on ... 
+## 🔭 I’m currently working on ... 
 ### Twist and Solve
 A teaching app for solving the Rubik's Cube with step-by-step guides and tracking progress.
 - Features:
@@ -23,7 +22,6 @@ A teaching app for solving the Rubik's Cube with step-by-step guides and trackin
   - Solve tracking
   - User progress analysis
 
-[Check out the repository!](#)
+[Check out the repository!](https://github.com/Samir-Dabhi/twist_and_solve)
 
 ---
-_"The best way to predict the future is to invent it." - Alan Kay_
